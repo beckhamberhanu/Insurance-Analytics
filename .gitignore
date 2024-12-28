@@ -1,0 +1,27 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+env/
+insurance_env/
+build/
+dist/
+*.egg-info/
+
+#data
+data/
+
+#env
+.env
+
+#logs
+logs/
+
+# notebooks
+.ipynb_checkpoints
