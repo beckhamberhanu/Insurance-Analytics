@@ -34,6 +34,8 @@ Insurance-Analytics/
 ├── .env                             # Environment variables for local setup
 └── LICENSE                          # License information
 
+plaintext ```
+
 ---
 
 ## Script Functionalities
