@@ -21,4 +21,4 @@ def load_and_convert(file_path, output_csv):
 
 # Example usage
 if __name__ == "__main__":
-    load_and_convert("/home/bbm/Downloads/MachineLearningRating_v3.txt", "/home/bbm/Documents/MachineLearningRating_v3.csv")
+    load_and_convert("/home/bbm/Downloads/MachineLearningRating_v3.txt", "/home/bbm/Documents/projects/MachineLearningRating_v3.csv")
